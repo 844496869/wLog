@@ -6,7 +6,7 @@ var errorFileName = "error";
 var errorLogPath = logBasePath + errorPath + "/" + errorFileName;
 
 var responsePath = "/response";
-var responseFileName = "error";
+var responseFileName = "response";
 var responseLogPath = logBasePath + responsePath + "/" + responseFileName;
 
 module.exports = {
